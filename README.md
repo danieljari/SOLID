@@ -1,4 +1,4 @@
-# SOLID Principles  
+# SOLID Principles   
 Examples made in Java
 
 SRP – Single Responsibility Principle
